@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>RELI-GG Links</title>
+<style>
+body { font-family: Arial, sans-serif; background: #111; color: #fff; text-align: center; padding: 50px;}
+a { display: block; margin: 15px; padding: 10px; background: #222; color: #fff; text-decoration: none; border-radius: 8px;}
+a:hover { background: #444; }
+h1 { color: #f90; }
+</style>
+</head>
+<body>
+<h1>RELI-GG</h1>
+<a href="https://www.instagram.com/reli.88888/" target="_blank">Instagram</a>
+<a href="https://www.tiktok.com/@religg" target="_blank">TikTok</a>
+<a href="https://www.youtube.com/@RELI-GG" target="_blank">YouTube</a>
+<a href="https://www.twitch.tv/religg50" target="_blank">Twitch</a>
+<a href="https://discord.gg/KECD36tH" target="_blank">Discord</a>
+<p>Epic ID: RELI-GG</p>
+</body>
+</html>
